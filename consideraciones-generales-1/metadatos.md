@@ -10,7 +10,7 @@ Los metadatos son palabras que entregan información sobre una página, componen
 
 Sirven para **ayudar a los rastreadores**  \(los sistemas que usan google o otros buscadores\), **a encontrar el contenido** que están buscando los usuarios.
 
-Permiten **relacionar un contenido con otro** sin que el usuario se de cuenta. Son los que permiten que los sistemas "automágicamente" muestren información relacionada.
+Permiten **relacionar un contenido con otro** sin que el usuario se de cuenta. Son los que permiten que los sistemas "auto-mágicamente" muestren información relacionada.
 
 También **entregan información a los sistemas de navegación y lectura accesible.**
 
