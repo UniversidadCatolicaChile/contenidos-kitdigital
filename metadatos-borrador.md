@@ -1,8 +1,6 @@
----
-description: ESTA SECCIÓN ESTÁ INCOMPLETA.
----
+# Metadatos: Borrador
 
-# Metadatos
+
 
 ### ¿Qué son y para qué sirven los metadatos?
 
