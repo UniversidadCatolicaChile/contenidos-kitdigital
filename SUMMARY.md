@@ -7,7 +7,6 @@
   * [Textos](consideraciones-generales-1/textos.md)
   * [Enlaces](consideraciones-generales-1/enlaces.md)
   * [Fotos](consideraciones-generales-1/fotos.md)
-  * [Metadatos](consideraciones-generales-1/metadatos.md)
   * [ANEXOS](consideraciones-generales-1/anexos/README.md)
     * [Pautas de lenguaje fácil para hacer textos accesibles](consideraciones-generales-1/anexos/pautas-de-lenguaje-facil-para-hacer-textos-accesibles.md)
     * [Consideraciones para el estilo de textos UC](consideraciones-generales-1/anexos/consideraciones-para-el-estilo-de-textos-uc.md)
