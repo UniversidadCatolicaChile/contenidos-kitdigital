@@ -4,7 +4,7 @@ description: 'Extractos de: Manual de estilo UC para textos.'
 
 # Consideraciones para el estilo de textos UC
 
-En este manual sólo consideraremos los aspectos relativos a la manera de nombrar a la universidad y sus unidades. Para otras dudas de estilo, se puede revisar directamente el [Manual de Estilo UC para Textos](https://docs.google.com/document/d/1jnuFPrlsy8S7Jxiv4LVKFsnF8H2_rYOYUSBWIghuLro/edit) recopilado por Ingrid Bachman.
+En este manual sólo consideraremos los aspectos relativos a la manera de nombrar a la universidad y sus unidades. Para otras dudas de estilo, se puede revisar directamente el [Manual de Estilo UC para Textos](https://docs.google.com/document/d/1jnuFPrlsy8S7Jxiv4LVKFsnF8H2_rYOYUSBWIghuLro/edit) recopilado por Ingrid Bachmann.
 
 ### Nombre de la Universidad
 
@@ -14,13 +14,13 @@ Existen sólo tres formas válidas para nombrar a la universidad:
 
 * UC
 * Universidad Católica
-* Pontificia Universidad Católica
+* Pontificia Universidad Católica de Chile
 
 #### No se acepta:
 
 * PUC
 * PUCCH
-* Pontificia Universidad Católica de Chile
+* Pontificia Universidad Católica
 
 ### Nombre de las unidades:
 
